@@ -1,6 +1,4 @@
-# tmpe_value_reference
-잠시 누군가를 위해 예전에 공부했던 것을 공유하기 위한..
-
+값타입과 참조타이 고민고민쓰
 
 ----------
 
@@ -120,11 +118,3 @@
 
   - [Swift Closure vs Objective-C Block 비교 분석](https://www.letmecompile.com/swift-closure-vs-objective-c-block/)
 
-  
-
-### ㅎㅎㅎㅎㅎㅎ
-
-* dsfsdf
-  - sdfkljsldjk
-
-* [참고링크](https://www.naver.com/)
